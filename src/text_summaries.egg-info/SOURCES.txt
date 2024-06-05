@@ -1,0 +1,16 @@
+README.md
+setup.py
+src/textSummaries/__init__.py
+src/textSummaries/components/__init__.py
+src/textSummaries/config/__init__.py
+src/textSummaries/config/configuration.py
+src/textSummaries/constants/__init__.py
+src/textSummaries/entity/__init__.py
+src/textSummaries/logging/__init__.py
+src/textSummaries/pipeline/__init__.py
+src/textSummaries/utils/__init__.py
+src/textSummaries/utils/common.py
+src/text_summaries.egg-info/PKG-INFO
+src/text_summaries.egg-info/SOURCES.txt
+src/text_summaries.egg-info/dependency_links.txt
+src/text_summaries.egg-info/top_level.txt
